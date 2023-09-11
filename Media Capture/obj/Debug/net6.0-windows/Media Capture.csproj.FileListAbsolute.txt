@@ -1,0 +1,24 @@
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\Media Capture.exe
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\Media Capture.deps.json
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\Media Capture.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\Media Capture.dll
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\Media Capture.pdb
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\AForge.dll
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\AForge.Video.DirectShow.dll
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\AForge.Video.dll
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\AForge.xml
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\AForge.Video.xml
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\bin\Debug\net6.0-windows\AForge.Video.DirectShow.xml
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media_Capture.Form1.resources
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.dll
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\refint\Media Capture.dll
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.pdb
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\Media Capture.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Media Capture\Media Capture\obj\Debug\net6.0-windows\ref\Media Capture.dll
